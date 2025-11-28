@@ -1,0 +1,5 @@
+{
+  "name": "[AI 維修小編2.0]",
+  "description": "An intelligent repair assistant that categorizes solutions based on project context and problem similarity.",
+  "requestFramePermissions": []
+}
